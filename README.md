@@ -42,6 +42,7 @@ GoogleNet (Inception-V3)
 ![Perbandingan Algoritma VGG-Resnet-Googlenet](https://github.com/tprasetyo/Face-Recognition/assets/72024376/71327b82-49f9-47e8-8088-ae61dc0706f3)
 
 Hasil terbaik adalah dengan menggunakan algoritma ResNet-50 dengan accuracy 0.95.
+
 Catatan: Training menggunakan CPU dengan IDE VSCode 
 
 ## Kesimpulan
