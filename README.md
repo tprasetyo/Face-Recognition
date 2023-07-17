@@ -54,5 +54,5 @@ Catatan: Training menggunakan CPU dengan IDE VSCode
 ## Contact
 
 Teguh Prasetyo
-[Email](<teguh.prasetyo33@gmail.com>) | [Linkedin](https://id.linkedin.com/in/teguh-prasetyo-b4196879) | [RPubs](https://rpubs.com/tprasetyo)
+[Email](mailto:teguh.prasetyo33@gmail.com) | [Linkedin](https://id.linkedin.com/in/teguh-prasetyo-b4196879)
 
